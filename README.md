@@ -5,10 +5,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suven-p" alt="Suven-p's Activity by language" />
 </a>
 
-#### **Activity this week**  
+<!-- #### **Activity this week**  
 <div><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Suven-p" alt="Suven-p's wakatime stats" />
-</a></div>
+</a></div> -->
 
 #### **Total Activity**
 <div><a href="https://github.com/anuraghazra/github-readme-stats">
