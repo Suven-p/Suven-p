@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Suven-p&style=plastic&color=blueviolet)
-<h1 align="center">Hi 👋, I'm Suven Pandey.</h1>
-<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
+# Hi 👋, I'm Suven Pandey.
 
-<!--
+<!---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -11,7 +10,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---!>
+--->
 
 - 🔭 I’m currently working on AWS Solutions Architect Certification<br/>
 - 🌱 I’m currently learning DevOps Technologies<br/>
@@ -19,9 +18,7 @@
 - 💬 Ask me about full stack development<br/>
 - 😄 Pronouns: He/Him<br/>
 
----
-
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="mailto:pandeysuven@gmail.com"><img align="center" src="https://github.com/Suven-p/Suven-p/blob/main/icons8-gmail.svg" alt="gmail"  height="30" width="40"/></a>
 <a href="https://twitter.com/SuvenPandey1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
@@ -33,7 +30,8 @@
 <a href="https://leetcode.com/Suven-p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lt" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
+---
+### Languages:
 <div>
 <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,flutter,go,c,cpp,html,css" />
 </div>
@@ -67,6 +65,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suven-p&theme=midnight_purple) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suven-p&theme=midnight_purple) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suven-p&theme=midnight_purple)
-
-
-
